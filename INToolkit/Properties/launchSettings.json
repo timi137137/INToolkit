@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "INToolkit (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "INToolkit (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
